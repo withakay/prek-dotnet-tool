@@ -1,0 +1,1 @@
+# Reserved for Microsoft.CodeAnalysis.BannedApiAnalyzers if that analyzer is enabled later.
