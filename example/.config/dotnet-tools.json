@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "prek.dotnettool": {
+      "version": "0.4.5",
+      "commands": [
+        "prek"
+      ]
+    }
+  }
+}
