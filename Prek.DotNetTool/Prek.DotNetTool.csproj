@@ -10,7 +10,7 @@
     <PackageOutputPath>../artifacts/package</PackageOutputPath>
 
     <PackageId>Prek.DotNetTool</PackageId>
-    <Version>0.4.5</Version>
+    <Version>0.4.8</Version>
     <Authors>Prek.DotNetTool contributors</Authors>
     <Description>A .NET tool wrapper for prek, the fast Git hook manager.</Description>
     <PackageTags>prek;pre-commit;git-hooks;dotnet-tool</PackageTags>
