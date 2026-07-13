@@ -7,7 +7,7 @@ namespace Prek.DotNetTool;
 
 internal static class PrekTool
 {
-    public const string UpstreamVersion = "0.4.8";
+    public const string UpstreamVersion = "0.4.9";
 
     private static readonly HttpClient HttpClient = new();
 
