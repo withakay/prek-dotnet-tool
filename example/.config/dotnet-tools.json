@@ -3,7 +3,7 @@
   "isRoot": true,
   "tools": {
     "prek.dotnettool": {
-      "version": "0.4.9",
+      "version": "0.4.10",
       "commands": [
         "prek"
       ]
